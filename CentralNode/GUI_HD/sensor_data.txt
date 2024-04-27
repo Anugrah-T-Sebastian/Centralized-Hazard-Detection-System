@@ -1,4 +1,3 @@
-CO2:12
-Temperature:32
-Humidity:30
-
+CO2:900
+Temperature:10
+Humidity:15
